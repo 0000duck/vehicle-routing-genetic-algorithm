@@ -1,0 +1,14 @@
+{
+  "VehicleSpeed": 1.0,
+  "VehicleWeight": 0.0,
+  "DistanceWeight": 1.0,
+  "GenerationCount": 500,
+  "PopulationSize": 500,
+  "MutationRate": 0.2,
+  "CrossOverRate": 0.8,
+  "EliteCount": 2,
+  "TournamentSize": 4,
+  "VehicleCapacity": 200,
+  "CrossoverType": "Uox",
+  "FitnessMethod": "WeightedSum"
+}
